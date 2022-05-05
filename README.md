@@ -22,11 +22,11 @@ Check the correctness of your simulator:
     linux> ./test-csim
 
 ******
-# Files:
+#   Files:
 
 csim.c       The cache simulator
 
-# Tools for evaluating your simulator 
+    Tools for evaluating your simulator 
 Makefile     Builds the simulator and tools
 
 README       This file
