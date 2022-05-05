@@ -28,11 +28,19 @@ csim.c       The cache simulator
 
 # Tools for evaluating your simulator 
 Makefile     Builds the simulator and tools
+
 README       This file
+
 cachelab.c   Required helper functions
+
 cachelab.h   Required header file
+
 csim-ref*    The executable reference cache simulator
+
 test-csim*   Tests The cache simulator
+
 test-trans.c Tests The transpose function
+
 tracegen.c   Helper program used by test-trans
+
 traces/      Trace files used by test-csim.c
