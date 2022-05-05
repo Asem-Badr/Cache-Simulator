@@ -12,8 +12,8 @@ provided by the course to test the results and the helper files for this testing
 
 
 ************************
-Running the autograders:
-************************
+# Running the autograders:
+
 
 Before running the autograders, compile your code:
     linux> make
@@ -22,8 +22,8 @@ Check the correctness of your simulator:
     linux> ./test-csim
 
 ******
-Files:
-******
+# Files:
+
 csim.c       The cache simulator
 
 # Tools for evaluating your simulator 
